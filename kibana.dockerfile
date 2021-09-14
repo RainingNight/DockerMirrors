@@ -1,1 +1,1 @@
-from docker.elastic.co/kibana/kibana:8.0.0-alpha1
+from docker.elastic.co/kibana/kibana:7.14.1
