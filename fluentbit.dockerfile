@@ -1,1 +1,1 @@
-from fluent/fluent-bit:1.7
+FROM fluent/fluent-bit:1.7
