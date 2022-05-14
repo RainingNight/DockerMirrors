@@ -1,1 +1,1 @@
-FROM docker.elastic.co/eck/eck-operator:2.1.0
+FROM docker.elastic.co/eck/eck-operator:2.2.0
